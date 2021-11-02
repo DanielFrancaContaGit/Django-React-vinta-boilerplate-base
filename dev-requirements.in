@@ -1,0 +1,10 @@
+bandit
+black
+coverage
+django>=3
+flake8==3.8.4
+isort
+model-bakery
+pre-commit
+prospector[with-vulture]
+safety
